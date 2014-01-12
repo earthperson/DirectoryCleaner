@@ -2,10 +2,13 @@
 CLS
 
 REM ----------------------------------------------------------------------
+REM DirectoryCleaner v1.0 (https://github.com/earthperson/DirectoryCleaner)
+REM
 REM Copyright (c) 2009 Dmitry Ponomarev (e-mail: ponomarev.dev@gmail.com)
+REM Licensed under the MIT License: http://www.opensource.org/licenses/mit-license.php
 REM ----------------------------------------------------------------------
 
-TITLE DirectoryCleaner. Copyright (c) 2009 Dmitry Ponomarev (e-mail: ponomarev.dev@gmail.com)
+TITLE DirectoryCleaner v1.0. Copyright (c) 2009 Dmitry Ponomarev (e-mail: ponomarev.dev@gmail.com)
 
 SET DIRECTORY=%temp%
 
